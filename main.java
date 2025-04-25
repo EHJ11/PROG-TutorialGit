@@ -7,4 +7,5 @@ public class main {
  * git add main.java
  * git commit -m "clase main creada con hola mundo"
  * fix: cambio mensaje hola mundo "main.java"
+ * git push origin main
 */
